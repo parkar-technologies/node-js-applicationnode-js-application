@@ -2,7 +2,7 @@
 
 To start this application first you can get this repo code using below url
 
-git clone https://github.com/MithunTechnologiesDevOps/nodejs-app-mss.git
+git clone https://github.com/wst-devteam/nodejs-app-mss.git
 
 cd nodejs-app-mss
 
@@ -43,7 +43,7 @@ In package.json add below entry,
 
 "publishConfig": {
 
-"registry": "http://IPAddress:8081/repository/nodejs-mithuntechnologies/"
+"registry": "http://IPAddress:8081/repository/nodejs-wizdomtechnologys/"
 
 }
 

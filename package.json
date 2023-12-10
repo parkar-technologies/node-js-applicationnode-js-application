@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://43.205.96.245:9980/mithuntechnologies/repository/nodejsrepo-mss/"
+    "registry": "http://43.205.96.245:9980/wizdomtechnologies/repository/nodejsrepo-mss/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
@@ -26,13 +26,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MithunTechnologies/node-js-application"
+    "url": "https://github.com/wst-devteam/node-js-application"
   },
   "keywords": [
     "node",
-    "Mithun Technologies",
+    "Wizdom Technologies",
     "express"
   ],
-  "author": "Mithun Reddy Lacchannagari",
+  "author": "Wizdom Lacchannagari",
   "license": "MIT"
 }
